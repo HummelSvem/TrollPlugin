@@ -1,0 +1,9 @@
+name: Troll
+main: SoartexHD\troll
+api: [3.0.0-ALPHA12]
+version: 1.9.3
+author: HummelSvem
+commands:
+  troll:
+     description: Troll cmd
+     usage: /troll
